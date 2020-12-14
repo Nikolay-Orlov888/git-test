@@ -8,6 +8,12 @@ body {
     height: 100%;
 }
 
+h2 {
+    top: 50%;
+    transform: translateY(50%);
+    margin: 0;
+}
+
 .header {
     width: 100%;
     text-align: center;
@@ -24,7 +30,6 @@ body {
     font-size: 60px;
     background-color: firebrick;
     color: #fff;
-
 }
 
 .footer {
