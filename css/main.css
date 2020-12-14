@@ -11,8 +11,8 @@ body {
 .header {
     width: 100%;
     text-align: center;
-    height: 200px;
-    font-size: 50px;
+    height: 250px;
+    font-size: 60px;
     background-color: chocolate;
     color: #fff;
 }
@@ -20,8 +20,8 @@ body {
 .main {
     width: 100%;
     text-align: center;
-    height: 200px;
-    font-size: 50px;
+    height: 250px;
+    font-size: 60px;
     background-color: firebrick;
     color: #fff;
 
@@ -30,8 +30,8 @@ body {
 .footer {
     width: 100%;
     text-align: center;
-    height: 200px;
-    font-size: 50px;
+    height: 250px;
+    font-size: 60px;
     background-color: darkolivegreen;
     color: #fff;
 
